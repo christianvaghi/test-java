@@ -1,0 +1,51 @@
+{
+    // Usare IntelliSense per informazioni sui possibili attributi.
+    // Al passaggio del mouse vengono visualizzate le descrizioni degli attributi esistenti.
+    // Per altre informazioni, visitare: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "While",
+            "projectName": "test-java_5b928adb"
+        },
+        {
+            "type": "java",
+            "name": "gioco",
+            "request": "launch",
+            "mainClass": "gioco",
+            "projectName": "test-java_5b928adb"
+        },
+        {
+            "type": "java",
+            "name": "negozio",
+            "request": "launch",
+            "mainClass": "negozio",
+            "projectName": "test-java_5b928adb"
+        },
+        {
+            "type": "java",
+            "name": "programma",
+            "request": "launch",
+            "mainClass": "programma",
+            "projectName": "test-java_5b928adb"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "test-java_5b928adb"
+        }
+    ]
+}
